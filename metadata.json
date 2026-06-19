@@ -1,0 +1,6 @@
+{
+  "name": "Azure Bicep Infrastructure Builder",
+  "description": "An interactive environment to design, configure, visualize, and generate modular Azure Bicep infrastructure templates with simulated deployment and AI-powered architectural answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
