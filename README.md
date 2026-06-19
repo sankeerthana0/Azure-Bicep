@@ -125,22 +125,7 @@ az deployment group create \
     --parameters main.parameters.json
 ```
 
----
 
-## 📸 Screenshots
-
-### Azure Portal
-
-> Add deployment screenshots here.
-
-```
-images/
-    deployment.png
-    resource-group.png
-    app-service.png
-```
-
----
 
 ## 📈 Learning Outcomes
 
@@ -176,7 +161,7 @@ Through this project I explored:
 AI & Cloud Engineer
 
 - GitHub: https://github.com/sankeerthana0
-- LinkedIn: *(Add your LinkedIn profile)*
+- LinkedIn: https://linkedin.com/sankeerthana-verneni-deploy
 
 ---
 
